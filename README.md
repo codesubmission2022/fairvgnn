@@ -8,7 +8,7 @@ pip install -r ./requirements.txt
 ```
 
 ## Run
-* To reproduce the performance comparison and the ablation study, run
+* To reproduce the performance comparison and the ablation study, please first unzip each dataset in the dataset folder and run
 ```linux
 bash run.sh
 ```
